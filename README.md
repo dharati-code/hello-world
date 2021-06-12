@@ -1,2 +1,3 @@
 # hello-world
-This is Phase 2 
+I am an aspiring Python Developer and like to build and automate things.
+
